@@ -1,0 +1,6 @@
+@ApiDemokrata_HostAddress = http://localhost:5240
+
+GET {{ApiDemokrata_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
